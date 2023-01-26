@@ -3,10 +3,6 @@
 /* in SIMON32 to the paper:  	                                      */
 /* Improved Rotational-XOR Cryptanalysis of Simon-like Block Ciphers  */
 /* by Jinyu Lu, Yunwen Liu, Tomer Ashur, Bing Sun and Chao Li.	 	  */
-/* Copyright status: Copyrighted! May only be used for                */
-/* reviewing the accompanying paper.	                              */
-/* A non-copyrighted version will be included with the paper's camera */
-/* ready version.			                                          */
 /**********************************************************************/
 
 
